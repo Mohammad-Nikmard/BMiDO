@@ -1,4 +1,5 @@
 # BMiDO
+![mockup](app/src/main/res/drawable/mockup.png)
 
 ## Overview
 This is a simple BMI calculator that can track the user's BMI and could give the user some tips about the range he/she is in with simply giving their age, height and weight. The app has been written with kotlin language and jetpack compose framework.
